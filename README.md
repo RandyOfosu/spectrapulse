@@ -1,5 +1,5 @@
 ### **Hi there** 👋
-I'm **Tyrone Faulhaber** (Spectrapulse) and I'm a Student Software Engineer from the Netherlands.
+I'm **[Tyrone Faulhaber](https://www.linkedin.com/in/spectrapulse/)** ([Spectrapulse](https://spectrapul.se)) and I'm a Student Software Engineer from [The Netherlands](https://en.wikipedia.org/wiki/Netherlands).
 
 ** **
 - 🔭 I’m currently working on nothing in particular. I'm thinking of writing a public [Discord](https://discord.com) bot though!
